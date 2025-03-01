@@ -35,6 +35,17 @@ The project involves capturing audio commands from users, converting the speech 
 
 5. Speech Recognition Library (e.g., SpeechRecognition, PyAudio)
 
+**Steps**
+
+
+- Clone the repository: https://github.com/shubhoo3/GPT-Based-Smart-Assistant.git
+
+
+- Install dependencies: pip install -r requirements.txt
+
+- Set up your OpenAI API key: export OPENAI_API_KEY='your-api-key'
+
+
 ## Usage
 
 - Start the assistant and issue voice commands.
